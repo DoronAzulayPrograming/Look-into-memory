@@ -14,6 +14,15 @@ After an in-depth investigation on the subject I decided these were my next step
 + c#  :disassembler wrapper for 32 bit process
 + c#  :gui
 
+## How it work
+The software provides the user with a convenient and clear interface with a variety of options
+The software has 4 main windows
++ Scanner     : user can scan values in the process virtual memory
++ Memory      : user can navigate to different memory areas and see disassembly code or hex values
++ Structs     : user can scan a memory area and read it at whatever values are convenient for him
++ Information : details of the selected process
+Each window has its own features.
+
 #### System Requirements
 
 + x64 Windows 10;
