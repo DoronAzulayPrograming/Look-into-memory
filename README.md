@@ -61,3 +61,31 @@ To use the driver you need to either install manually or download and use KDU to
 look at https://github.com/hfiref0x/KDU Kernel Driver Utility
 
 
+## ScreenShots
+Scanner
+
+<img src="https://i.ibb.co/J50Jb0r/Scanner-Default.png" alt="Scanner-Default" border="0">
+
+Process Browser
+
+<img src="https://i.ibb.co/vP524XW/Process-Browser.png" alt="Process-Browser" border="0">
+
+Process Information - Modules
+
+<img src="https://i.ibb.co/98LP9wn/Process-Information.png" alt="Process-Information" border="0">
+
+Process Information - Sections
+
+<img src="https://i.ibb.co/7rHZnhc/Process-Information-Sections.png" alt="Process-Information-Sections" border="0">
+
+Scanner - Scan Values
+
+<img src="https://i.ibb.co/BKH8MMd/Scanner-Scan-Values.png" alt="Scanner-Scan-Values" border="0">
+
+Memory View
+
+<img src="https://i.ibb.co/TPKL2P0/Memory-View.png" alt="Memory-View" border="0">
+
+Structs View
+
+<img src="https://i.ibb.co/p3kKWGn/Structs-View.png" alt="Structs-View" border="0">
