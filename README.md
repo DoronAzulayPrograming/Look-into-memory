@@ -33,11 +33,13 @@ compile and build each separately. ( for now just use debug build not release ).
 + driver as x64
 + smdkd.dll as x64
 + disassembler as x86
++ disassembler as x64
 + wrapper as any cpu ( x86 )
 + scanner as any cpu ( x64 )
 
 After the build done successfully
 + move disassembler32.dll to wrapper bin folder
++ move disassembler64.dll to scanner bin folder
 + move smdkd.dll to scanner bin folder
 + move wrapper files in the bin folder to scanner bin folder
 + install/load the driver.
