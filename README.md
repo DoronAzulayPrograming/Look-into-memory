@@ -24,8 +24,10 @@ The software has 4 main windows
 Each window has its own features.
 
 ## Build steps
-to build the project you will need install visual studio 2019 https://visualstudio.microsoft.com/
-and Windows Driver Kit (WDK) https://docs.microsoft.com/en-us/windows-hardware/drivers/download-the-wdk.
+you will need install
++ visual studio 2019 https://visualstudio.microsoft.com/
++ Windows Driver Kit (WDK) https://docs.microsoft.com/en-us/windows-hardware/drivers/download-the-wdk.
+
 compile and build each separately. 
 
 + driver as x64
