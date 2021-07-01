@@ -36,6 +36,18 @@ compile and build each separately. ( for now just use debug build not release ).
 + wrapper as any cpu ( x86 )
 + scanner as any cpu ( x64 )
 
+After the build done successfully
++ move disassembler32.dll to wrapper bin folder
++ move smdkd.dll to scanner bin folder
++ move wrapper files in the bin folder to scanner bin folder
++ install/load the driver.
+
+Open SmScanner.exe
+
++ If you do not see any window repeat the steps again you may have missed a step
++ if you see the windows but you get error message ( driver not loaded ) you need to load/install the driver
++ if you see 2 console windows and one scanner you ready to go.!!!
+
 #### System Requirements
 
 + x64 Windows 10;
