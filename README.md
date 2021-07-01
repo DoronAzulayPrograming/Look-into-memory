@@ -28,7 +28,7 @@ you will need install
 + visual studio 2019 https://visualstudio.microsoft.com/
 + Windows Driver Kit (WDK) https://docs.microsoft.com/en-us/windows-hardware/drivers/download-the-wdk.
 
-compile and build each separately. 
+compile and build each separately. ( for now just use debug build not release ).
 
 + driver as x64
 + smdkd.dll as x64
