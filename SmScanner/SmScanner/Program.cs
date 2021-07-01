@@ -64,7 +64,7 @@ namespace SmScanner
             if( process.Count() <= 0)
             {
                 ProcessWrapper = Process.Start(
-                    "C:\\Users\\doronPrograming\\source\\repos\\PipeServer\\Disassembler32.Wrapper\\bin\\Debug\\netcoreapp3.1\\Disassembler32.Wrapper.exe",
+                    $"{System.IO.Directory.GetCurrentDirectory()}\\Disassembler32.Wrapper.exe",
                     "SmEnv Loop");
             }
             else ProcessWrapper = process.First();
