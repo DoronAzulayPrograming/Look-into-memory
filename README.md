@@ -5,6 +5,15 @@ The inspiration came from the CE and Reclass softwares.
 These softwares are really complex and it interests me if I can even learn how to do it.
 Today after half a year I share with you the first version of Lim Engine (currently SmScanner)
 
+## The goal
+The goal is to build software that can control every process that runs on your computer.
+After an in-depth investigation on the subject I decided these were my next steps
++ c   : kernel driver that will provide me with a clean api to mess with memory
++ c++ :dll who can communicate with the driver
++ c++ :disassembler
++ c#  :disassembler wrapper for 32 bit process
++ c#  :gui
+
 #### System Requirements
 
 + x64 Windows 10;
